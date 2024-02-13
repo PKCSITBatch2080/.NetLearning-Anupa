@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.AssemblyInfo.cs
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.exe
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.deps.json
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.runtimeconfig.json
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.dll
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.pdb
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.dll
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\refint\firstconsoleapp.dll
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.pdb
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.genruntimeconfig.cache
+C:\Users\ACER\Documents\sessami-internship\dotnet_course\firstconsoleapp\obj\Debug\net8.0\ref\firstconsoleapp.dll
