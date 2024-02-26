@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\firstconsoleapp\\firstconsoleapp.csproj",
-      "projectName": "firstconsoleapp",
-      "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\firstconsoleapp\\firstconsoleapp.csproj",
+      "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment1\\Greeter\\Greeter.csproj",
+      "projectName": "Greeter",
+      "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment1\\Greeter\\Greeter.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\firstconsoleapp\\obj\\",
+      "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment1\\Greeter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
