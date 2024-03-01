@@ -1,0 +1,15 @@
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.AssemblyInfoInputs.cache
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.AssemblyInfo.cs
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.csproj.CoreCompileInputs.cache
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.sourcelink.json
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\bin\Debug\net8.0\assignment2.exe
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\bin\Debug\net8.0\assignment2.deps.json
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\bin\Debug\net8.0\assignment2.runtimeconfig.json
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\bin\Debug\net8.0\assignment2.dll
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\bin\Debug\net8.0\assignment2.pdb
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.dll
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\refint\assignment2.dll
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.pdb
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\assignment2.genruntimeconfig.cache
+E:\projects\sessami-internship\dotnetgit\.NetLearning-Anupa\assignment2\assignment2\obj\Debug\net8.0\ref\assignment2.dll
