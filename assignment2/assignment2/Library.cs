@@ -24,12 +24,12 @@ namespace LibraryManagementSystem
 
         public void LendItem()
         {
-            // Implement library-specific lending logic here
+          
         }
 
         public void ReturnItem(DateTime returnedDate)
         {
-            // Implement library-specific returning logic here
+            
         }
 
         public int GetBookCount()

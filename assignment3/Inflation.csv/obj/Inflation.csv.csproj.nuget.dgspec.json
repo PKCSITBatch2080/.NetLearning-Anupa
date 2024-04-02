@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\CollegeManger.csproj": {}
+    "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj": {}
   },
   "projects": {
-    "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\CollegeManger.csproj": {
+    "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\CollegeManger.csproj",
-        "projectName": "CollegeManger",
-        "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\CollegeManger.csproj",
+        "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj",
+        "projectName": "Inflation.csv",
+        "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\obj\\",
+        "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -55,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

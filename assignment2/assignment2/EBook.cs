@@ -13,17 +13,17 @@ namespace LibraryManagementSystem
 
         public void LendItem()
         {
-            // Implement eBook-specific lending logic here
+            
         }
 
         public void ReturnItem(DateTime returnedDate)
         {
-            // Implement eBook-specific returning logic here
+            
         }
 
         public override void BorrowBook()
         {
-            // Implement eBook-specific borrowing logic here
+            
         }
     }
 }

@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\wwwroot\\images\\badge.png",
+      "PackagePath": "staticwebassets\\images\\badge.png"
+    },
+    {
+      "Id": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\wwwroot\\images\\cms.jpg",
+      "PackagePath": "staticwebassets\\images\\cms.jpg"
+    },
+    {
+      "Id": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\wwwroot\\images\\home.jpg",
+      "PackagePath": "staticwebassets\\images\\home.jpg"
+    },
+    {
+      "Id": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\CollegeManger\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

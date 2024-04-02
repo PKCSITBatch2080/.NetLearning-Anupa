@@ -1,17 +1,33 @@
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
 
+using Microsoft.AspNetCore.Mvc;
 public class ProgramController : Controller
 {
+    List<CollegeProgram> programs =
+    [
+        new() { Id = 1, Name = "CSIT", Affiliation = "TU", Started = DateTime.Now },
+        new() { Id = 2, Name = "BCA", Affiliation = "TU", Started = DateTime.Now.AddYears(-2) },
+        new() { Id = 3, Name = "BIT", Affiliation = "TU", Started = DateTime.Now.AddMonths(-11) },
+        new() { Id = 4, Name = "BIM", Affiliation = "PU", Started = DateTime.Now.AddDays(-200) }
+    ];
+
+    [HttpGet]
     public IActionResult Index()
     {
-        CollegeProgram c1 = new CollegeProgram() { Name = "CSIT", Affiliation = "Tu", Started = DateTime.Now };
-        CollegeProgram c2 = new CollegeProgram() { Name = "CSIT", Affiliation = "Tu", Started = DateTime.Now.AddDays(-280) };
-        CollegeProgram c3 = new CollegeProgram() { Name = "BCA", Affiliation = "Tu", Started = DateTime.Now.AddYears(-2) };
-        CollegeProgram c4 = new CollegeProgram() { Name = "BIT", Affiliation = "Tu", Started = DateTime.Now.AddMonths(-1) };
-
-        List<CollegeProgram> programs = new List<CollegeProgram>() { c1, c2, c3, c4 };
         return View(programs);
+    }
+
+    [HttpGet]
+    public IActionResult Add()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Add(CollegeProgram program) // model binding
+    {
+        // Do something on program
+        programs.Add(program);
+
+        return RedirectToAction("Index");
     }
 }

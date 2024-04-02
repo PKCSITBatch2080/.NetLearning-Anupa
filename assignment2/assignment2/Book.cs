@@ -1,8 +1,8 @@
 public abstract class Book
 {
-    public string Title { get; set; }
-    public string Author { get; }
-    protected bool _isAvailable;
+    public string Title { get; set; }//property
+    public string Author { get; }//property :read only
+    protected bool _isAvailable;//field
 
     public Book(string title, string author)
     {
