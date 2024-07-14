@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj",
+      "projectUniqueName": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation\\Inflation.csv.csproj",
       "projectName": "Inflation.csv",
-      "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\Inflation.csv.csproj",
+      "projectPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation\\Inflation.csv.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation.csv\\obj\\",
+      "outputPath": "E:\\projects\\sessami-internship\\dotnetgit\\.NetLearning-Anupa\\assignment3\\Inflation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
